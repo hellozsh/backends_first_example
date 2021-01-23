@@ -17,7 +17,7 @@ public class CheckItem implements Serializable {
     private String attention;//注意事项
 
     public Integer getId() {
-        return id;
+        return 1;
     }
 
     public void setId(Integer id) {
